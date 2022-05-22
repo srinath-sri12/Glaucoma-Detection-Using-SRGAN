@@ -1,0 +1,2 @@
+# Glaucoma-Detection-Using-SRGAN
+Glaucoma is dangerous eye disease because it causes permanent blindness by damaging the optic nerves. The data shows that it is one of the leading causes of blindness and second most eye disease proceeding by cataract so, Diagnosis of this disease in early stage is essential to avoid partial or full loss of eye vision.In this work, Glaucoma will be detected using image processing methods on eye fundus images using SRGAN enhancement with UNET image segmentation and classified using a convolution neural network.
