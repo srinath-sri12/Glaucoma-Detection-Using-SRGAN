@@ -1,0 +1,7 @@
+matplotlib
+cv2
+numpy
+torch
+torchvision
+albumentations
+gdown
